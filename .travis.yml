@@ -21,7 +21,8 @@ matrix:
     - rvm: 1.9.2
       env: "RAILS_VERSION=3.1.0"
     - rvm: 1.9.2
-      env: "RAILS_VERSION=3.2.0"
+      env: "RAILS_VERSION=4.2.0"
+
 
   allow_failures:
     - rvm: ruby-head
